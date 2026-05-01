@@ -1,4 +1,4 @@
 From almalinux:9
-RUN mkdir /app/surendra
-WORKDIR /app/surendra
+RUN mkdir /surendra
+WORKDIR /surendra
 RUN echo "Hello Surendra" > hello.txt
